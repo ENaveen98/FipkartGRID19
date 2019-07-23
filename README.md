@@ -1,6 +1,4 @@
-# FipkartGRID19
-# Big Data Challenge 19
-The Winning Solution for the Finals of Big Data Challenge powered by HSBC under Shaastra 2019.
+# Fipkart GRID 19
 
 ### Problem Statement:
 The aim of the problem is to develop a Regression model to accurately find the coordinates of the best fitting rectangular Bounding Box around an Object in an image. Each image consists of only a single object and the x,y coordinates of the top left and bottom right corners of the Bounding Box is to be determined. The results would be evaluated on the basis of Intersection over Union (IoU) performance metric.
