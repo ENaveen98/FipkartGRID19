@@ -49,3 +49,4 @@ Finally, our model was able to achieve the following results. Below are a few im
   
 ### Relevant Files
 [Training the Model - Jupyter Notebook](Train.ipynb)
+[Prediction/Testing of Model - Jupyter Notebook](Predict.ipynb)
