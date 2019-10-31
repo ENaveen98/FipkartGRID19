@@ -48,4 +48,4 @@ Finally, our model was able to achieve the following results. Below are a few im
 </p>
   
 ### Relevant Files
-[Model - Jupyter Notebook](Model.ipynb)
+[Training the Model - Jupyter Notebook](Train.ipynb)
