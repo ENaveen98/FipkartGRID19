@@ -17,12 +17,12 @@ The Training set consists of around 14,000 images in Round 2 (+ 14,000 more in R
 
 * [Python 3.6](https://www.python.org/) - The programming language used.
 * [Jupyter Notebook](https://jupyter.org/) - Integrated Development Environment used.
-* [opencv]() - Library to load training/test image data into numpy arrays and also perform Image manipulation.
-* [matplotlib]() - Library to create Visualizations to analyse the data.
-* [numpy]() - Library used to perform a wide range of Mathematical operations.
-* [tensorflow]() - Library used to build and train the framework of Neural Networks.
-* [scikit-learn]() - Library used to build and train the framework of the overall predictive model.
-* [pickle]() - Library used to save the trained model for reusing purposes.
+* [opencv](https://opencv.org/) - Library to load training/test image data into numpy arrays and also perform Image manipulation.
+* [matplotlib](https://matplotlib.org/) - Library to create Visualizations to analyse the data.
+* [numpy](https://numpy.org/) - Library used to perform a wide range of Mathematical operations.
+* [tensorflow](https://www.tensorflow.org/) - Library used to build and train the framework of Neural Networks.
+* [scikit-learn](https://scikit-learn.org/stable/) - Library used to build and train the framework of the overall predictive model.
+* [pickle](https://docs.python.org/3/library/pickle.html) - Library used to save the trained model for reusing purposes.
 
 ### Getting Started
 * Step - 1 : Features Engineering
